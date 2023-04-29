@@ -27,3 +27,7 @@ The electronic device is enclosed in a plastic box that was created using 3D pri
 
 ![1682764149425](https://user-images.githubusercontent.com/54074456/235300630-ff1c4f45-3f5e-4e0a-accc-90f923cb16f5.jpg)
 
+# Result
+https://user-images.githubusercontent.com/54074456/235300935-b9214f60-20d5-4e7f-86bc-c7b1b774aec2.mp4
+
+
