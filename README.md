@@ -30,6 +30,9 @@ The electronic device is enclosed in a plastic box that was created using 3D pri
 # Result
 https://user-images.githubusercontent.com/54074456/235301052-e3a51b07-1ab0-4533-a0c2-43816d364ee2.mp4
 
+# Application
+Assemble completed box to side of a freezer. Put magnet on the freezer door. Reed switch has to be orientated to front, so it would have ideal distance when door is closed/not closed properly.
+
 
 
 
