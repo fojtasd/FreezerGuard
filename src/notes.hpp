@@ -1,5 +1,9 @@
 #pragma once
 
+// Music notes are borrowed from 
+// https://github.com/robsoncouto/arduino-songs/blob/master/imperialmarch/imperialmarch.ino
+// Thanks. 
+
 constexpr int NOTE_B0 = 31;
 constexpr int NOTE_C1 = 33;
 constexpr int NOTE_CS1 = 35;

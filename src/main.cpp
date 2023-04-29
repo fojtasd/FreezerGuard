@@ -10,7 +10,7 @@ constexpr int DOOR_CLOSED = 0;
 const int BEEPER_PIN = 6;
 const int SENSOR_PIN = 3;
 int secondsElapsed = 0;
-const int secondsToScream = 30; // 1 minuta
+const int secondsToScream = 30; // 1 minute
 MusicPlayer musicPlayer{imperialMelody, sizeof(imperialMelody) / sizeof(int),
                         BEEPER_PIN};
 
