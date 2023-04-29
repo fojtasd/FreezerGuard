@@ -13,9 +13,9 @@ Arduino nano was used. For my purposes I have created 3 circuits.
 3) Circuit for connection to ARDUINO to upload your code.
 
 
-Ad 1) This simple circuit allows the device to detect changes in the surrounding magnetic field, and trigger a digital signal accordingly. When a magnet is brought close to the reed switch, it causes the contacts to close, completing the circuit and sending a signal to the digital pin. In code is mentioned as SENSOR_PIN.
+1. This simple circuit allows the device to detect changes in the surrounding magnetic field, and trigger a digital signal accordingly. When a magnet is brought close to the reed switch, it causes the contacts to close, completing the circuit and sending a signal to the digital pin. In code is mentioned as SENSOR_PIN.
 
-Ad 2) In addition to the reed switch, this electrotechnical device also features a buzzer that is connected to another digital pin and is controlled by an Arduino programmer. When the device detects a change in the magnetic field using the reed switch, it sends a signal to the buzzer which plays implemented melody.
+2. In addition to the reed switch, this electrotechnical device also features a buzzer that is connected to another digital pin and is controlled by an Arduino programmer. When the device detects a change in the magnetic field using the reed switch, it sends a signal to the buzzer which plays implemented melody.
 
 There is also connected J5019 charger module, which is PCB board and which provides charging control and protection for battery. Battery 18650 is connected here.
 
