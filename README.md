@@ -1,5 +1,5 @@
 # FreezerGuard
-A device that ensures that the freezer is always properly closed.
+A device that informs that the freezer is not properly closed.
 
 Used parts: Arduino nano, buzzer, reed switch, prototyping board, cables, EFEST IRM 18650 battery, 
 
